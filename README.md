@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi 👋, I'm Joshua Wandhawa</h1>
+<h1 align="center">Hi 👋, I'm Joshua Otieno</h1>
 <h3 align="center">A software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshwaoti&label=Profile%20views&color=0e75b6&style=flat" alt="joshwaoti" /> </p>
@@ -26,6 +26,15 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+https://medium.com/@joshwaotieno643/top-5-android-13-features-b4ec681a485
+
+https://dev.to/joshwaoti/python-itertools-module-2lh9
+
+https://dev.to/joshwaoti/python-libraries-modules-and-packages-gp6
+
+https://dev.to/joshwaoti/pyhton-for-everyonemastering-python-the-right-way-34nj
+
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
